@@ -1,2 +1,2 @@
-# goswami-rahul.github.io
+# Rahul Goswami
 My first GitHub Page!
